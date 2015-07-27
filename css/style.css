@@ -71,8 +71,14 @@ h4, h5, h6 {
 	margin: 15px 0 15px 0;
 }
 
-h1, h2, h3, h4, h5, h6 { text-transform: uppercase; letter-spacing: 0.1em; line-height: 1.2em; }
+h2, h3, h4, h5, h6 { text-transform: uppercase; letter-spacing: 0.1em; line-height: 1.2em; } 
 h1.light , h2.light , h3.light , h4.light , h5.light , h6.light { color: #63625a; }
+
+.h1-title {
+	font-family: "Lobster";
+	font-size: 140px;
+	color: white;
+}
 
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 { color: #fff; }
 .dark h1.light, .dark h2.light, .dark h3.light, .dark h4.light, .dark h5.light, .dark h6.light { color: #d1d1d1; }
